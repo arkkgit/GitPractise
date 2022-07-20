@@ -1,6 +1,7 @@
 this is a sample first fuile for git
 2nd line
 3rd line
+4t line hub
 
 Commands:
 git status
