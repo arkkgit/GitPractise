@@ -1,5 +1,6 @@
 this is a sample first fuile for git
 2nd line
+3rd line
 
 Commands:
 git status
@@ -9,3 +10,4 @@ git commit -m "message of commit"
 
 git remote add origin <your remote repo URL>
 git push origin master
+
